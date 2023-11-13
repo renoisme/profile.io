@@ -392,24 +392,3 @@ html {
   background: #18191c4d;
   border: 1px solid #3f4149;
 }
-
-/* Media Queries */
-@media screen and (max-width: 1470px) {
-  .card-container {
-    width: 1100px;
-  }
-}
-
-@media screen and (max-width: 1150px) {
-  .card-container {
-    width: 720px;
-  }
-
-}
-
-@media screen and (max-width: 770px) {
-  .card-container {
-    width: max-content;
-  }
-
-}
